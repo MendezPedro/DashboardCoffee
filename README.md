@@ -8,9 +8,6 @@ The present project involves the implementations of graphics to display business
 * [Ruby & Rails Gems](#ruby---rails-gems)
 * [Incorporating Bootstrap](#incorporating-bootstrap)
 * [Defining the models](#defining-the-models)
-* [Populating the database](#populating-the-database)
-* [Incorporating the graphics](#incorporating-the-graphics)
-    + [Generating the charts](#generating-the-charts)
     
 ## Ruby & Rails version
 
@@ -58,7 +55,7 @@ And called from the stylesheets:
 
 ## Defining the models
 
-![coffe](app/assets/images/coffe.png)
+![coffi](app/assets/images/coffee.png)
 
 As it can be seen above, the relation it is a *has_many* association and the models are generated as it follows:
 
